@@ -1,6 +1,6 @@
 ## Hi there!
 
-### This is the first approach to sharing a simple project in Verilog. A decoder 4:16 (active in low outputs) conneted to a nand gate.
+### This is the first approach to sharing a simple project in Verilog. A decoder 4:16 (active in low outputs) connected to a nand gate.
 
 
 The premises are simple, and i will be explaining each step (as well as why i do anything in that way), to clarify my actions and to try that the people who´s not in knowledge of the basis of verilog can follow properly what i´m doing.
