@@ -7,7 +7,7 @@ module decoder (
   
   always @(a)
     begin 
-      z=1;
+      z=16’hffff;
       z[a]=0;
     end
   
